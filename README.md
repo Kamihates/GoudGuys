@@ -1,4 +1,4 @@
-# Lemmings ![LemmingGif](https://github.com/carlotacb/Lemmings/blob/master/Game/images/readme/lemming.gif)
+# Lemmings !
 
 This is a clone of the well-known videogame [Lemmings](https://en.wikipedia.org/wiki/Lemmings_(video_game)) implemented in C++ via a custom engine. It was developed during the Videogames subject of the 2nd year in Gaming Campus 16/11/2022 [Gaming Campus](https://gamingcampus.fr/) - [G.Tech](https://gamingcampus.fr/ecoles/ecole-developpeur-jeux-video-g-tech.html).
 
